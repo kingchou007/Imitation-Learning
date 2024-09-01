@@ -2,7 +2,7 @@
 
 [DexPilot: Vision Based Teleoperation of Dexterous Robotic Hand-Arm System](https://arxiv.org/pdf/1910.03135) - Handa, Ankur, et al. (2020 ICRA)
 
-## 3D Diffusion Policy
+## 3D Representation
 
 - 3D Diffuser Actor: Multi-task 3D Robot Manipulation with Iterative Error Feedback. - [OpenReview](https://openreview.net/forum?id=UnsLGUCynE)
 - **[IROS 2024]** RISE: 3D Perception Makes Real-World Robot Imitation Simple and Effective.  - [Website](https://rise-policy.github.io/)
@@ -18,3 +18,9 @@
 5. [Transcendence: Generative Models Can Outperform The Experts That Train Them](https://arxiv.org/pdf/2406.11741)
 6. [Scaling Laws for Imitation Learning in Single-Agent Games](https://arxiv.org/pdf/2307.09423)
 7. [How to Leverage Diverse Demonstrations in Offline Imitation Learning](https://arxiv.org/pdf/2405.17476)
+
+## Data Quality
+
+1. [Behavioral Cloning from Noisy Demonstrations](https://openreview.net/forum?id=zrT3HcsWSAt)
+3. [Imitation Learning from Purified Demonstrations](https://yunke-wang.github.io)
+4. [DEMODICE: Offline Imitation Learning with Supplementary Imperfect Demonstrations](https://openreview.net/pdf?id=BrPdX1bDZkQ)
