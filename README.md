@@ -22,5 +22,6 @@
 ## Data Quality
 
 1. [Behavioral Cloning from Noisy Demonstrations](https://openreview.net/forum?id=zrT3HcsWSAt)
-3. [Imitation Learning from Purified Demonstrations](https://yunke-wang.github.io)
-4. [DEMODICE: Offline Imitation Learning with Supplementary Imperfect Demonstrations](https://openreview.net/pdf?id=BrPdX1bDZkQ)
+2. [Imitation Learning from Purified Demonstrations](https://yunke-wang.github.io)
+3. [DEMODICE: Offline Imitation Learning with Supplementary Imperfect Demonstrations](https://openreview.net/pdf?id=BrPdX1bDZkQ)
+4. [Data Quality in Imitation Learning](https://arxiv.org/abs/2306.02437)
