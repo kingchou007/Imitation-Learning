@@ -25,3 +25,5 @@
 2. [Imitation Learning from Purified Demonstrations](https://yunke-wang.github.io)
 3. [DEMODICE: Offline Imitation Learning with Supplementary Imperfect Demonstrations](https://openreview.net/pdf?id=BrPdX1bDZkQ)
 4. [Data Quality in Imitation Learning](https://arxiv.org/abs/2306.02437)
+5. [HYDRA: Hybrid Robot Actions for Imitation Learning]()
+6. [VIOLA: Imitation Learning for Vision-Based Manipulation with Object Proposal Priors](https://arxiv.org/pdf/2210.11339)
