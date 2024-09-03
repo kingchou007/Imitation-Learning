@@ -27,3 +27,15 @@
 4. [Data Quality in Imitation Learning](https://arxiv.org/abs/2306.02437)
 5. [HYDRA: Hybrid Robot Actions for Imitation Learning]()
 6. [VIOLA: Imitation Learning for Vision-Based Manipulation with Object Proposal Priors](https://arxiv.org/pdf/2210.11339)
+
+## Imitation Learning Generalization
+
+1. [Efficient Data Collection for Robotic Manipulation via Compositional Generalization](https://arxiv.org/pdf/2403.05110)
+
+## Scale Imitation Learning
+
+1. [Re-Mix: Optimizing Data Mixtures for Large Scale Imitation Learning](https://arxiv.org/pdf/2408.14037)
+
+## Imitation Learning + RL
+
+1. [Imitation Bootstrapped Reinforcement Learning](https://arxiv.org/pdf/2311.02198)
