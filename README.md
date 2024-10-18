@@ -32,6 +32,7 @@
 4. [Data Quality in Imitation Learning](https://arxiv.org/abs/2306.02437)
 5. [HYDRA: Hybrid Robot Actions for Imitation Learning]()
 6. [VIOLA: Imitation Learning for Vision-Based Manipulation with Object Proposal Priors](https://arxiv.org/pdf/2210.11339)
+7. [ARCap: Collecting High-quality Human Demonstrations for Robot Learning with Augmented Reality Feedback](https://arxiv.org/pdf/2410.08464)
 
 ## Imitation Learning Generalization
 
