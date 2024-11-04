@@ -47,4 +47,6 @@
 
 1. [Imitation Bootstrapped Reinforcement Learning](https://arxiv.org/pdf/2311.02198)
 
-## RL
+## Diffusion Policy
+
+1. [ONE-STEP DIFFUSION POLICY: FAST VISUOMOTOR POLICIES VIA DIFFUSION DISTILLATION](https://arxiv.org/pdf/2410.2125)
